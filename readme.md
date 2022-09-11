@@ -29,6 +29,7 @@
 
 ## Check out Hooked:
 
-![Hooked](https://img.itch.zone/aW1nLzc0NjIwODMuZ2lm/original/qgI%2Bjy.gif)
+![Hooked Logo](./logoHD.png)
+![Hooked Gameplay](https://img.itch.zone/aW1nLzc0NjIwODMuZ2lm/original/qgI%2Bjy.gif)
 
 Click <a href="https://tanteturner.itch.io/hooked">here</a> for more information on the Project!
