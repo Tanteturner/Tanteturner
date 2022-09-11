@@ -1,10 +1,10 @@
 # Hi, I'm Jannis 👋
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tanteturner&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tanteturner&show_icons=true&theme=radical"/>
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanteturner&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanteturner&layout=compact"/>
 <hr width="100%"/>
 
 #### Languages:
@@ -29,8 +29,8 @@
 
 ## Check out Hooked:
 
+<img align="left" width="25%" src="./logoHD.png"/>
+<img align="right" width="60%" src="https://img.itch.zone/aW1nLzc0NjIwODMuZ2lm/original/qgI%2Bjy.gif"/)
 
-<img align="left" width="20%" src="./logoHD.png">
-![Hooked Gameplay](https://img.itch.zone/aW1nLzc0NjIwODMuZ2lm/original/qgI%2Bjy.gif)
 
 Click <a href="https://tanteturner.itch.io/hooked">here</a> for more information on the Project!
