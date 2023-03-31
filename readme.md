@@ -46,5 +46,5 @@
 Click <a href="https://tanteturner.itch.io/hooked">here</a> for more information on the Project!
 
 ## Reach out to me:
-[Twitter - @Taneturner1](https://twitter.com/Tanteturner1) |
+[Twitter - @DevTante](https://twitter.com/DevTante) |
 <a href="mailto: %20jannis.matthies+portfolio@gmail.com">E-Mail<a/>
